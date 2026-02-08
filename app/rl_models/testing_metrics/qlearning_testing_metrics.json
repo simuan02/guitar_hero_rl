@@ -1,0 +1,362 @@
+{
+    "baseline": [
+        {
+            "title": "Message In A Bottle",
+            "precision": 92.88,
+            "recall": 97.65,
+            "f1_score": 95.21,
+            "score": 30408.0
+        },
+        {
+            "title": "Monkey Wrench",
+            "precision": 92.88,
+            "recall": 98.41,
+            "f1_score": 95.57,
+            "score": 11545
+        },
+        {
+            "title": "Take Me Out",
+            "precision": 93.54,
+            "recall": 96.51,
+            "f1_score": 95.0,
+            "score": 13814.5
+        },
+        {
+            "title": "Barracuda",
+            "precision": 94.19,
+            "recall": 96.76,
+            "f1_score": 95.46,
+            "score": 25808.5
+        },
+        {
+            "title": "Smoke On The Water",
+            "precision": 94.51,
+            "recall": 98.05,
+            "f1_score": 96.25,
+            "score": 30335.5
+        },
+        {
+            "title": "Get Lucky",
+            "precision": 72.2,
+            "recall": 86.84,
+            "f1_score": 78.85,
+            "score": 20899.0
+        },
+        {
+            "title": "Viva La Vida",
+            "precision": 96.98,
+            "recall": 97.35,
+            "f1_score": 97.16,
+            "score": 11752.0
+        },
+        {
+            "title": "American Idiot",
+            "precision": 86.69,
+            "recall": 96.89,
+            "f1_score": 91.51,
+            "score": 12664.5
+        },
+        {
+            "title": "Believer",
+            "precision": 87.18,
+            "recall": 96.32,
+            "f1_score": 91.52,
+            "score": 14752.5
+        },
+        {
+            "title": "Numb",
+            "precision": 84.29,
+            "recall": 95.29,
+            "f1_score": 89.45,
+            "score": 10898.0
+        }
+    ],
+    "best_f1_score_mean": [
+        {
+            "title": "Message In A Bottle",
+            "precision": 97.12,
+            "recall": 98.97,
+            "f1_score": 98.04,
+            "score": 32382
+        },
+        {
+            "title": "Monkey Wrench",
+            "precision": 97.65,
+            "recall": 98.81,
+            "f1_score": 98.23,
+            "score": 11899
+        },
+        {
+            "title": "Take Me Out",
+            "precision": 93.52,
+            "recall": 96.19,
+            "f1_score": 94.84,
+            "score": 13945.0
+        },
+        {
+            "title": "Barracuda",
+            "precision": 92.42,
+            "recall": 97.78,
+            "f1_score": 95.02,
+            "score": 26916.5
+        },
+        {
+            "title": "Smoke On The Water",
+            "precision": 99.55,
+            "recall": 100.0,
+            "f1_score": 99.77,
+            "score": 32660
+        },
+        {
+            "title": "Get Lucky",
+            "precision": 82.02,
+            "recall": 90.4,
+            "f1_score": 86.01,
+            "score": 23568.0
+        },
+        {
+            "title": "Viva La Vida",
+            "precision": 100.0,
+            "recall": 100.0,
+            "f1_score": 100.0,
+            "score": 12975
+        },
+        {
+            "title": "American Idiot",
+            "precision": 94.61,
+            "recall": 97.23,
+            "f1_score": 95.9,
+            "score": 13240.0
+        },
+        {
+            "title": "Believer",
+            "precision": 98.0,
+            "recall": 97.17,
+            "f1_score": 97.58,
+            "score": 15760
+        },
+        {
+            "title": "Numb",
+            "precision": 88.93,
+            "recall": 96.01,
+            "f1_score": 92.33,
+            "score": 11704.5
+        }
+    ],
+    "max_f1_score": [
+        {
+            "title": "Message In A Bottle",
+            "precision": 95.03,
+            "recall": 98.24,
+            "f1_score": 96.61,
+            "score": 32143.0
+        },
+        {
+            "title": "Monkey Wrench",
+            "precision": 100.0,
+            "recall": 98.81,
+            "f1_score": 99.4,
+            "score": 11925
+        },
+        {
+            "title": "Take Me Out",
+            "precision": 95.56,
+            "recall": 95.56,
+            "f1_score": 95.56,
+            "score": 13352.5
+        },
+        {
+            "title": "Barracuda",
+            "precision": 88.78,
+            "recall": 95.9,
+            "f1_score": 92.2,
+            "score": 25192.0
+        },
+        {
+            "title": "Smoke On The Water",
+            "precision": 96.5,
+            "recall": 99.1,
+            "f1_score": 97.78,
+            "score": 31736.5
+        },
+        {
+            "title": "Get Lucky",
+            "precision": 75.32,
+            "recall": 90.71,
+            "f1_score": 82.3,
+            "score": 22203.0
+        },
+        {
+            "title": "Viva La Vida",
+            "precision": 100.0,
+            "recall": 100.0,
+            "f1_score": 100.0,
+            "score": 12975
+        },
+        {
+            "title": "American Idiot",
+            "precision": 90.1,
+            "recall": 97.58,
+            "f1_score": 93.69,
+            "score": 13153.5
+        },
+        {
+            "title": "Believer",
+            "precision": 92.43,
+            "recall": 96.88,
+            "f1_score": 94.6,
+            "score": 15267.0
+        },
+        {
+            "title": "Numb",
+            "precision": 90.14,
+            "recall": 96.01,
+            "f1_score": 92.98,
+            "score": 12343.5
+        }
+    ],
+    "worst": [
+        {
+            "title": "Message In A Bottle",
+            "precision": 29.01,
+            "recall": 76.51,
+            "f1_score": 42.07,
+            "score": 3169
+        },
+        {
+            "title": "Monkey Wrench",
+            "precision": 34.19,
+            "recall": 84.92,
+            "f1_score": 48.75,
+            "score": 2914
+        },
+        {
+            "title": "Take Me Out",
+            "precision": 35.73,
+            "recall": 86.67,
+            "f1_score": 50.6,
+            "score": 4101
+        },
+        {
+            "title": "Barracuda",
+            "precision": 30.74,
+            "recall": 78.84,
+            "f1_score": 44.23,
+            "score": 3129
+        },
+        {
+            "title": "Smoke On The Water",
+            "precision": 32.54,
+            "recall": 81.56,
+            "f1_score": 46.52,
+            "score": 4071.0
+        },
+        {
+            "title": "Get Lucky",
+            "precision": 25.98,
+            "recall": 68.89,
+            "f1_score": 37.73,
+            "score": 426.5
+        },
+        {
+            "title": "Viva La Vida",
+            "precision": 34.02,
+            "recall": 87.5,
+            "f1_score": 48.99,
+            "score": 2598
+        },
+        {
+            "title": "American Idiot",
+            "precision": 31.21,
+            "recall": 83.04,
+            "f1_score": 45.37,
+            "score": 1529
+        },
+        {
+            "title": "Believer",
+            "precision": 30.75,
+            "recall": 82.15,
+            "f1_score": 44.75,
+            "score": 2378.0
+        },
+        {
+            "title": "Numb",
+            "precision": 32.49,
+            "recall": 78.62,
+            "f1_score": 45.98,
+            "score": 2065.0
+        }
+    ],
+    "most_unstable": [
+        {
+            "title": "Message In A Bottle",
+            "precision": 37.5,
+            "recall": 74.89,
+            "f1_score": 49.98,
+            "score": 3391.5
+        },
+        {
+            "title": "Monkey Wrench",
+            "precision": 78.64,
+            "recall": 96.43,
+            "f1_score": 86.63,
+            "score": 9305
+        },
+        {
+            "title": "Take Me Out",
+            "precision": 66.67,
+            "recall": 88.25,
+            "f1_score": 75.96,
+            "score": 8213.0
+        },
+        {
+            "title": "Barracuda",
+            "precision": 37.7,
+            "recall": 75.6,
+            "f1_score": 50.31,
+            "score": 4294.5
+        },
+        {
+            "title": "Smoke On The Water",
+            "precision": 44.67,
+            "recall": 79.76,
+            "f1_score": 57.27,
+            "score": 6835.5
+        },
+        {
+            "title": "Get Lucky",
+            "precision": 31.79,
+            "recall": 58.51,
+            "f1_score": 41.2,
+            "score": 777.5
+        },
+        {
+            "title": "Viva La Vida",
+            "precision": 58.4,
+            "recall": 88.26,
+            "f1_score": 70.29,
+            "score": 6185.0
+        },
+        {
+            "title": "American Idiot",
+            "precision": 65.06,
+            "recall": 88.93,
+            "f1_score": 75.14,
+            "score": 7726.5
+        },
+        {
+            "title": "Believer",
+            "precision": 55.74,
+            "recall": 83.85,
+            "f1_score": 66.96,
+            "score": 7263.5
+        },
+        {
+            "title": "Numb",
+            "precision": 42.12,
+            "recall": 76.45,
+            "f1_score": 54.32,
+            "score": 3750.0
+        }
+    ]
+}

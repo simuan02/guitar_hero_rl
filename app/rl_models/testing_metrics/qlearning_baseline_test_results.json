@@ -1,0 +1,79 @@
+{
+    "experiment_metadata": {
+        "model": "qlearning_a0.1g0.75ed0.99.pkl"
+    },
+    "tests": [
+        [
+            {
+                "title": "Message In A Bottle",
+                "precision": 92.88,
+                "recall": 97.65,
+                "f1_score": 95.21,
+                "score": 30408.0
+            },
+            {
+                "title": "Monkey Wrench",
+                "precision": 92.88,
+                "recall": 98.41,
+                "f1_score": 95.57,
+                "score": 11545
+            },
+            {
+                "title": "Take Me Out",
+                "precision": 93.54,
+                "recall": 96.51,
+                "f1_score": 95.0,
+                "score": 13814.5
+            },
+            {
+                "title": "Barracuda",
+                "precision": 94.19,
+                "recall": 96.76,
+                "f1_score": 95.46,
+                "score": 25808.5
+            },
+            {
+                "title": "Smoke On The Water",
+                "precision": 94.51,
+                "recall": 98.05,
+                "f1_score": 96.25,
+                "score": 30335.5
+            },
+            {
+                "title": "Get Lucky",
+                "precision": 72.2,
+                "recall": 86.84,
+                "f1_score": 78.85,
+                "score": 20899.0
+            },
+            {
+                "title": "Viva La Vida",
+                "precision": 96.98,
+                "recall": 97.35,
+                "f1_score": 97.16,
+                "score": 11752.0
+            },
+            {
+                "title": "American Idiot",
+                "precision": 86.69,
+                "recall": 96.89,
+                "f1_score": 91.51,
+                "score": 12664.5
+            },
+            {
+                "title": "Believer",
+                "precision": 87.18,
+                "recall": 96.32,
+                "f1_score": 91.52,
+                "score": 14752.5
+            },
+            {
+                "title": "Numb",
+                "precision": 84.29,
+                "recall": 95.29,
+                "f1_score": 89.45,
+                "score": 10898.0
+            }
+        ]
+    ]
+}

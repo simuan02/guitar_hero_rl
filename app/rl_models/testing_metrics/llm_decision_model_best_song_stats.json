@@ -1,0 +1,72 @@
+{
+    "Message In A Bottle": {
+        "Score": 2600,
+        "Modello": "llm_decision_model",
+        "Precisione": 100.0,
+        "Recall": 94.94,
+        "F1-Score": 97.4
+    },
+    "Monkey Wrench": {
+        "Score": 1525,
+        "Modello": "llm_decision_model",
+        "Precisione": 100.0,
+        "Recall": 100.0,
+        "F1-Score": 100.0
+    },
+    "Take Me Out": {
+        "Score": 570,
+        "Modello": "llm_decision_model",
+        "Precisione": 100.0,
+        "Recall": 80.39,
+        "F1-Score": 89.13
+    },
+    "Barracuda": {
+        "Score": 2255,
+        "Modello": "llm_decision_model",
+        "Precisione": 100.0,
+        "Recall": 96.72,
+        "F1-Score": 98.33
+    },
+    "Smoke On The Water": {
+        "Score": 2240,
+        "Modello": "llm_decision_model",
+        "Precisione": 100.0,
+        "Recall": 98.18,
+        "F1-Score": 99.08
+    },
+    "Get Lucky": {
+        "Score": 2535,
+        "Modello": "llm_decision_model",
+        "Precisione": 100.0,
+        "Recall": 91.14,
+        "F1-Score": 95.36
+    },
+    "Viva La Vida": {
+        "Score": 2975,
+        "Modello": "llm_decision_model",
+        "Precisione": 100.0,
+        "Recall": 100.0,
+        "F1-Score": 100.0
+    },
+    "American Idiot": {
+        "Score": 2090,
+        "Modello": "llm_decision_model",
+        "Precisione": 100.0,
+        "Recall": 98.08,
+        "F1-Score": 99.03
+    },
+    "Believer": {
+        "Score": 2475,
+        "Modello": "llm_decision_model",
+        "Precisione": 100.0,
+        "Recall": 96.77,
+        "F1-Score": 98.36
+    },
+    "Numb": {
+        "Score": 1920,
+        "Modello": "llm_decision_model",
+        "Precisione": 100.0,
+        "Recall": 97.92,
+        "F1-Score": 98.95
+    }
+}
