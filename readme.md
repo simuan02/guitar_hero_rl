@@ -4,7 +4,7 @@ Windows:
 
 git clone https://github.com/simuan02/guitar_hero_rl.git
 
-cd guitar_hero 
+cd guitar_hero_rl
 
 .\scripts\restore.ps1
 
@@ -13,7 +13,7 @@ Mac/Linux:
 
 git clone https://github.com/simuan02/guitar_hero_rl.git
 
-cd guitar_hero
+cd guitar_hero_rl
 
 chmod +x scripts/restore.sh
 
